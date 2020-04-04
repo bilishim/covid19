@@ -18,7 +18,7 @@ from math import sqrt
 from pandas import read_csv
 
 # verisetini yükle
-series = read_csv('corona-virus-istatistikleri-resampled.csv', header=0, usecols=[8])
+series = read_csv('corona-virus-istatistikleri-resampled.csv', header=0, usecols=[5])
 
 # erteli verisetini olşutur
 values = DataFrame(series.values)
