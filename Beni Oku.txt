@@ -1,0 +1,8 @@
+Bu çalışma, Zaman Serisi Tahmin yöntemlerini Türkiye'deki Corona istatistikleri üzerinde kullanan scriptleri içermektedir.
+Kullanılan yöntemleri daha iyi anlamak için referans kitapları inceleyebilirsiniz:
+
+References:
+Introduction to Time Series Forecasting With Python
+Discover How to Prepare Data and Develop Models to Predict the Future
+by Jason Brownlee
+https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/
