@@ -6,3 +6,9 @@ Introduction to Time Series Forecasting With Python
 Discover How to Prepare Data and Develop Models to Predict the Future
 by Jason Brownlee
 https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/
+
+
+Forecasting: principles and practice
+by Rob J Hyndman
+https://www.amazon.com/Forecasting-principles-practice-Rob-Hyndman/dp/0987507109
+
